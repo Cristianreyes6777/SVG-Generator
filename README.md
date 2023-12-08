@@ -1,0 +1,5 @@
+# SVG generator
+
+I've developed a versatile SVG logo generator, a command-line application that simplifies the creation of customized SVG logos. This tool empowers users to effortlessly craft SVG images tailored to their specific needs. Users can define the logo's text content, select text color, choose from a variety of shapes like circles, triangles, or squares, and specify the desired shape color.
+
+To enhance usability, the application leverages the Inquirer package for user input collection, ensuring an intuitive and user-friendly experience. Additionally, Jest is employed for robust unit testing to guarantee the reliability of the core functionalities. This SVG logo generator is a valuable asset for designers, developers, and anyone seeking a rapid and hassle-free solution for logo design. It eliminates the need for manual SVG coding, enabling users to experiment with text and shape combinations efficiently. Whether designing a logo for a website, application, or any digital project, this tool streamlines the process, delivers consistent and professional results, and saves valuable time in the design journey.
