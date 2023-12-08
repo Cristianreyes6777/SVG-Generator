@@ -20,8 +20,11 @@ To enhance usability, the application leverages the Inquirer package for user in
 ## Technologies Used
 
 Node.js
+
 JavaScript
+
 Inquirer package
+
 Jest
 
 ## Screenshots and Videos
@@ -54,11 +57,13 @@ Or visit: https://cristianreyes6777.github.io/Weather-Application/
 
 ## Sources
 
-https://www.youtube.com/watch?v=9YivEQFpmHQ&t=649s
+https://www.youtube.com/watch?v=GJYMcLus3v0
 
-https://www.youtube.com/watch?v=2VUQABoFOqw&t=90s
+https://www.youtube.com/watch?v=m9oC3wo6JW4
 
-https://www.youtube.com/watch?v=cqJQ9wbUQto
+https://www.youtube.com/watch?v=N7cJc8cgQYg&t=20s
+
+https://www.youtube.com/watch?v=zh9CsKqEhOM
 
 
 ## Contact
