@@ -32,18 +32,17 @@ Jest
 ![image](https://github.com/Cristianreyes6777/SVG-Generator/assets/135755569/958ecfb7-15f8-49cf-9eb0-8213f8a14b79)
 
 
-https://drive.google.com/file/d/1IapAN_Btc5i6X-HmNCSBHelpsVtV71i9/view
+[link to video demo](#https://drive.google.com/file/d/1BN6VbiZQdXLCTS78szx7bTO2DdddgNlE/view?usp=sharing)
 
 
 
 
 ## Getting Started
 
-Clone the repository to your local machine.
-Open the index.html file in your preferred browser.
-Search a city by name, such as "New York". Then you will get the data pulled from the OpenWeather API.
+Clone the repository
+install any dependencies
+and then create logos!
 
-Or visit: https://cristianreyes6777.github.io/Weather-Application/
 
 ## Usage
 1. Open your terminal or command prompt, navigate to the project directory, and run the application with node index.js.
