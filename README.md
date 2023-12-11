@@ -31,8 +31,7 @@ Jest
 
 ![image](https://github.com/Cristianreyes6777/SVG-Generator/assets/135755569/958ecfb7-15f8-49cf-9eb0-8213f8a14b79)
 
-
-[link to video demo](#https://drive.google.com/file/d/1BN6VbiZQdXLCTS78szx7bTO2DdddgNlE/view?usp=sharing)
+-[link to video demo](#https://drive.google.com/file/d/1BN6VbiZQdXLCTS78szx7bTO2DdddgNlE/view?usp=sharing)
 
 
 
